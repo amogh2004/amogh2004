@@ -11,7 +11,7 @@ I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning 🤔, well a lot of things!
 - 👯 I’m looking to collaborate on a project/internship on Machine Learning / Python Development / Java Development.
 - 💬 Ask me about anything!
 - 📫 How to reach me 👆
