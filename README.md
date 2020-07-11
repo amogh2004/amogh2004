@@ -1,4 +1,4 @@
-# Amogh R 👋
+# Amogh R 
 learnaholic, tech, automobile, cooking, social service
 
 [![Twitter Badge](https://img.shields.io/badge/-@amogh2004_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amogh2004_)](https://twitter.com/amogh2004_)
