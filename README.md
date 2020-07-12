@@ -9,9 +9,9 @@ learnaholic, tech, automobile, cooking, social service
 ---
 ### Hi there! 👋
 
-I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of Technology. I am a Programmer, and a highly driven individual, who wants to enhance and specialise in tech, looking to establish a career in the field of Information Technology. I build Machine Learning models, and optimise them considering the hyper-parameters. **Highly interested in Machine Learning and DevOps.**
+I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of Technology. I am a Programmer, and a highly driven individual, who wants to enhance and specialise in tech, looking to establish a career in the field of Information Technology. I build Machine Learning models, and optimise them considering the hyper-parameters. </br>
+**Highly interested in Machine Learning and DevOps.**
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning 🤔, well a lot of things!
 - 👬 I’m looking to collaborate on a project or an internship on Machine Learning / Python Development / Java Development.
