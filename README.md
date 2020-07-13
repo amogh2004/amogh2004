@@ -6,7 +6,7 @@ learnaholic, tech, automobile, cooking, social service
 [![Linkedin Badge](https://img.shields.io/badge/-AmoghR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amogh-r-439654b6/)](https://www.linkedin.com/in/amogh-r-439654b6/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amoghpavan5363@gmail.com)](mailto:amoghpavan5363@gmail.com)
 
-<img src="https://github.com/amogh2004/amogh2004/blob/master/logo3.png" width="400" height="400" align="right"/>
+<img src="https://github.com/amogh2004/amogh2004/blob/master/logo3.png" width="350" height="350" align="right"/>
 
 ---
 ### Hi there! 👋
