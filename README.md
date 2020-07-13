@@ -1,4 +1,5 @@
 # Amogh R 
+
 learnaholic, tech, automobile, cooking, social service
 
 [![Twitter Badge](https://img.shields.io/badge/-@amogh2004_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amogh2004_)](https://twitter.com/amogh2004_)
@@ -10,7 +11,7 @@ learnaholic, tech, automobile, cooking, social service
 ---
 ### Hi there! 👋
 
-I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of Technology. I am a programmer, and a highly driven individual, who wants to enhance and specialise in tech, looking to establish a career in the field of Information Technology. I build Machine Learning models, and optimise them considering the hyper-parameters. </br>
+I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of Technology. I am a programmer, and a highly driven individual, who wants to enhance and specialise in tech, looking to establish a career in the field of Information Technology. </br>
 **Highly interested in Machine Learning and DevOps.**
 
 
