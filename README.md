@@ -12,7 +12,7 @@ learnaholic, tech, automobile, cooking, social service
 ### Hi there! 👋
 
 I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of Technology, Bengaluru. I am a programmer, and a highly driven individual, who wants to enhance and specialise in tech, looking to establish a career in the field of Information Technology. </br>
-**Highly interested in Machine Learning and DevOps.**
+**Highly interested in Machine Learning, DevOps and Cloud Infrastructure.**
 
 
 - 🌱 I’m currently learning 🤔, well a lot of things!
