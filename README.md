@@ -9,7 +9,7 @@ learnaholic, tech, automobile, cooking, social service
 <img src="https://github.com/amogh2004/amogh2004/blob/master/logo3.png" width="350" height="350" align="right"/>
 
 ---
-### Hi there! 👋
+### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of Technology, Bengaluru. I am a programmer, and a highly driven individual, who wants to enhance and specialise in tech, looking to establish a career in the field of Information Technology. </br>
 **Highly interested in Machine Learning, DevOps and Cloud Computing.**
