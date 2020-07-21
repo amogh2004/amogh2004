@@ -7,7 +7,6 @@ learnaholic, tech, automobile, cooking, social service
 <a href="mailto:amoghpavan5363@gmail.com"><img src="https://github.com/amogh2004/amogh2004/blob/master/images/281769.png" width="30" /></a>
 
 <img src="https://github.com/amogh2004/amogh2004/blob/master/images/logo3.png" width="350" height="350" align="right"/>
-
 ---
 ### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
