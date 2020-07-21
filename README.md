@@ -2,9 +2,9 @@
 
 learnaholic, tech, automobile, cooking, social service
 
-<a href="https://twitter.com/amogh2004_"><img src="https://github.com/amogh2004/amogh2004/blob/master/images/twitter.png" width="30" /></a>
-<a href="https://www.linkedin.com/in/amogh-r-439654b6/"><img src="https://github.com/amogh2004/amogh2004/blob/master/images/linkedin.png" width="30" /></a>
-<a href="mailto:amoghpavan5363@gmail.com"><img src="https://github.com/amogh2004/amogh2004/blob/master/images/281769.png" width="30" /></a>
+<a href="https://twitter.com/amogh2004_"><img src="https://github.com/amogh2004/amogh2004/blob/master/images/twitter.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/amogh-r-439654b6/"><img src="https://github.com/amogh2004/amogh2004/blob/master/images/linkedin.png" width="40" /></a>
+<a href="mailto:amoghpavan5363@gmail.com"><img src="https://github.com/amogh2004/amogh2004/blob/master/images/281769.png" width="40" /></a>
 
 <img src="https://github.com/amogh2004/amogh2004/blob/master/images/logo3.png" width="350" height="350" align="right"/>
 
