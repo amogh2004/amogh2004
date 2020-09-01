@@ -19,5 +19,5 @@ I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of
 - 👬 I’m looking to collaborate on a project or an internship on Machine Learning / Python Development / Java Development.
 - 💬 Ask me about anything! </br></br>
 
-![Amogh's github stats](https://github-readme-stats.vercel.app/api?username=amogh2004&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2004&hide=makefile,perl&theme=dark&layout=compact)
+![Amogh's github stats](https://github-readme-stats.vercel.app/api?username=amogh2004&count_private=true&show_icons=true&theme=dark&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2004&theme=dark&layout=compact)
