@@ -12,7 +12,7 @@ learnaholic, tech, automobile, social service, cooking, bike rides & long drives
 ### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of Technology, Bengaluru. I am a [Certified Microsoft Technology Associate](https://www.youracclaim.com/badges/78822f27-33f2-4844-a7aa-2e508e87b890?source=linked_in_profile), a programmer, and a highly driven individual, who wants to enhance and specialise in tech, looking to establish a career in the field of Information Technology. </br>
-**Highly interested in Machine Learning and DevOps.**
+*Highly interested in Machine Learning and DevOps.*
 
 
 - 🌱 I’m currently learning 🤔, well a lot of things;)
