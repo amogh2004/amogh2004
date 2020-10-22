@@ -3,10 +3,10 @@
 learnaholic, tech, automobile, social service, cooking, bike rides & long drives
 
 <p>
-<a href="https://twitter.com/amogh2004_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg" alt="amogh2004" height="30" width="30" /></a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/amogh-r-439654b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg" alt="amoghr" height="30" width="30" /></a> &nbsp; &nbsp;
-<a href="mailto:amoghpavan5363@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" alt="amoghpavan5363@gmail.com" height="30" width="30" /></a> &nbsp; &nbsp;
-<a href="https://www.hackerrank.com/amoghpavan5363?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" alt="amoghr" height="30" width="30" /></a>
+<a href="https://twitter.com/amogh2004_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg" alt="amogh2004" height="20" width="20" /></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/amogh-r-439654b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg" alt="amoghr" height="20" width="20" /></a> &nbsp; &nbsp;
+<a href="mailto:amoghpavan5363@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" alt="amoghpavan5363@gmail.com" height="20" width="20" /></a> &nbsp; &nbsp;
+<a href="https://www.hackerrank.com/amoghpavan5363?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" alt="amoghr" height="20" width="20" /></a>
 </p>
 
 <img src="https://github.com/amogh2004/amogh2004/blob/master/images/logo3.png" width="350" height="350" align="right"/>
