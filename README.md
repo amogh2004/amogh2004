@@ -1,7 +1,7 @@
 # Amogh R 
 
 <p> learnaholic, tech, automobile, social service, cooking, bike rides & long drives </p>
-<img src="https://komarev.com/ghpvc/?username=amogh2004&label=Profile%20views&color=0e75b6" alt="amogh2004" /> &nbsp; &nbsp;
+<p indent="right"> <img src="https://komarev.com/ghpvc/?username=amogh2004&label=Profile%20views&color=0e75b6" alt="amogh2004" /> </p>
 
 <p>
 <a href="https://twitter.com/amogh2004_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg" alt="amogh2004" height="25" width="25" /></a> &nbsp; &nbsp;
