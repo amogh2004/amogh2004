@@ -25,4 +25,4 @@ I am Amogh R, a Computer Science and Engineering Undergrad at K. S. Institute of
 <!-- - 💬 Ask me about anything! </br></br> -->
 
 ![Amogh's github stats](https://github-readme-stats.vercel.app/api?username=amogh2004&hide=contribs,issues&count_private=true&bg_color=e8e8e8&text_color=373a40&title_color=373a40&icon_color=19d3da)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2004&count_private=true&layout=compact&hide=jupyter%20notebook&bg_color=e8e8e8&text_color=373a40&title_color=373a40&icon_color=19d3da)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2004&count_private=true&layout=compact&bg_color=e8e8e8&text_color=373a40&title_color=373a40&icon_color=19d3da)](https://github.com/anuraghazra/github-readme-stats)
