@@ -1,7 +1,6 @@
 # Amogh R 
 
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="https://komarev.com/ghpvc/?username=amogh2004&label=Profile%20views&color=0e75b6" alt="amogh2004" />  </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/amogh-r-439654b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg" alt="amoghr" height="25" width="25" /></a> &nbsp; &nbsp;
@@ -22,5 +21,6 @@ I am Amogh R, a Computer Science and Engineering Graduate. I am a [Certified Mic
 - 👬 I’m looking to collaborate on a project or an internship on **Business Analyst / Data Analyst**.
 <!-- - 💬 Ask me about anything! </br></br> -->
 
-![Amogh's github stats](https://github-readme-stats.vercel.app/api?username=amogh2004&hide=contribs,issues&count_private=true&bg_color=e8e8e8&text_color=373a40&title_color=373a40&icon_color=19d3da)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2004&count_private=true&layout=compact&bg_color=e8e8e8&text_color=373a40&title_color=373a40&icon_color=19d3da)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=amogh2004&label=Profile%20views&color=0e75b6" alt="amogh2004" />  </p> 
