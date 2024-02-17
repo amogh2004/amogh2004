@@ -1,7 +1,5 @@
 # Amogh R 
 
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
-
 <p>
 <a href="https://www.linkedin.com/in/amogh-r-439654b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg" alt="amoghr" height="25" width="25" /></a> &nbsp; &nbsp;
 <a href="mailto:amoghpavan5363@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" alt="amoghpavan5363@gmail.com" height="25" width="25" /></a> &nbsp; &nbsp;
