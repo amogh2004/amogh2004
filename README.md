@@ -1,6 +1,5 @@
 # Amogh R 
 
-<p> learnaholic, tech, automobile, social service, cooking, bike rides & long drives 
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="https://komarev.com/ghpvc/?username=amogh2004&label=Profile%20views&color=0e75b6" alt="amogh2004" />  </p> 
 
