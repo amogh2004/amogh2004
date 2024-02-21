@@ -19,6 +19,6 @@ I am Amogh, a Computer Science and Engineering undergraduate, pursuing MS in Bus
 - 👬 I’m looking to collaborate on a project or an internship on **Business Analyst / Data Analyst**.
 <!-- - 💬 Ask me about anything! </br></br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2004&count_private=true&layout=compact&bg_color=e8e8e8&text_color=373a40&title_color=373a40&icon_color=19d3da)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2004&count_private=true&layout=compact&bg_color=e8e8e8&text_color=373a40&title_color=373a40&icon_color=19d3da)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=amogh2004&label=Profile%20views&color=0e75b6" alt="amogh2004" />  </p> 
+<img src="https://komarev.com/ghpvc/?username=amogh2004&label=Profile%20views&color=0e75b6" alt="amogh2004" />  </p> --->
