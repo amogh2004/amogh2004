@@ -8,7 +8,7 @@
 
 <img src="https://github.com/amogh2004/amogh2004/blob/master/images/logo3.png" width="350" height="350" align="right"/>
 
----
+<!--- --- --->
 ### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I am Amogh, a Computer Science and Engineering undergraduate, pursuing MS in Business Analytics. I am a [Certified Microsoft Technology Associate](https://www.youracclaim.com/badges/78822f27-33f2-4844-a7aa-2e508e87b890?source=linked_in_profile). I come armed with nearly 2 years of real-world expertise in Data Science. I possess a distinctive combination of analytical acumen, adept problem-solving abilities, and proficient communication and leadership skills, poised to bolster organizations across various industries with advanced technologies such as Analytics, Machine Learning (ML), Artificial Intelligence (AI), Data Mining, Business Intelligence, and Big Data. </br>
