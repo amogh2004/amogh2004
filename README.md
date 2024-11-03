@@ -44,19 +44,19 @@ Studying in the heart of the Bay Area, I am immersed in a world of cutting-edge 
 
 ### Dimensionality Reduction & Clustering on Housing Prices  
 *Tech Stack: Python (pandas, numpy, scikit-learn), K-Medoids, PCA*  
-Implemented dimensionality reduction and clustering analysis, using PCA and K-Medoids, to extract meaningful insights from complex datasets. Evaluated model performance using metrics like NMI. [View on GitHub](link)
+Implemented dimensionality reduction and clustering analysis, using PCA and K-Medoids, to extract meaningful insights from complex datasets. Evaluated model performance using metrics like NMI. [View](https://github.com/amogh2004/DS862-Assignments/blob/main/Midterm%20Project/AmoghEktaNihar_MidtermProject.py)
 
 ### Analyzing Obesity Levels from Health Data  
 *Tech Stack: Python, Machine Learning*  
-Developed models to classify obesity levels, utilizing techniques like KNN and Gradient Boosting. Enhanced predictive accuracy, providing insights into personalized health interventions. [View on GitHub](link)
+Developed models to classify obesity levels, utilizing techniques like KNN and Gradient Boosting. Enhanced predictive accuracy, providing insights into personalized health interventions. [View](https://github.com/amogh2004/Estimating-Obesity-Levels)
 
 ### Database Management for AEMA Imports LLC  
 *Tech Stack: SQL*  
-Designed a comprehensive DBMS for efficient inventory and sales management, simulating real-world challenges in global commerce. [View on GitHub](link)
+Designed a comprehensive DBMS for efficient inventory and sales management, simulating real-world challenges in global commerce. [View](https://github.com/amogh2004/AEMA-DB)
 
 ### California Housing Prices Analysis  
 *Tech Stack: Python (OLS Regression, Gradient Boosting)*  
-Analyzed housing prices using regression models, achieving an 80.9% accuracy improvement with ensemble techniques. Key insights focused on income and coastal proximity. [View on GitHub](link)
+Analyzed housing prices using regression models, achieving an 80.9% accuracy improvement with ensemble techniques. Key insights focused on income and coastal proximity. [View](https://github.com/amogh2004/California_House_Price_Analysis)
 
 ---
 
@@ -71,13 +71,8 @@ Analyzed housing prices using regression models, achieving an 80.9% accuracy imp
 
 ## 🌐 Contact & Connect
 
-- **LinkedIn**: [Amogh Ranganathaiah](link)  
-- **GitHub**: [amogh2004](link)  
+- **LinkedIn**: [Amogh Ranganathaiah](https://www.linkedin.com/in/amoghranganathaiah/)  
+- **GitHub**: [amogh2004](https://github.com/amogh2004)  
 - **Email**: [amoghranganathaiah@gmail.com](mailto:amoghranganathaiah@gmail.com)
 
 ---
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](link_to_stats_widget)  
-*Join me in creating data-driven innovations!*
