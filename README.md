@@ -1,24 +1,83 @@
-# Amogh R 
-
-<p>
-<a href="https://www.linkedin.com/in/amogh-r-439654b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg" alt="amoghr" height="25" width="25" /></a> &nbsp; &nbsp;
-<a href="mailto:amoghpavan5363@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mail-dot-ru.svg" alt="amoghpavan5363@gmail.com" height="25" width="25" /></a> &nbsp; &nbsp;
-<a href="https://www.hackerrank.com/amoghpavan5363?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" alt="amoghr" height="25" width="25" /></a>
-</p>
-
-<img src="https://github.com/amogh2004/amogh2004/blob/master/images/logo3.png" width="350" height="350" align="right"/>
-
-<!--- --- --->
-### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-I am Amogh, a Computer Science and Engineering undergraduate, pursuing MS in Business Analytics. I am a [Certified Microsoft Technology Associate](https://www.youracclaim.com/badges/78822f27-33f2-4844-a7aa-2e508e87b890?source=linked_in_profile). I come armed with nearly 2 years of real-world expertise in Data Science. I possess a distinctive combination of analytical acumen, adept problem-solving abilities, and proficient communication and leadership skills, poised to bolster organizations across various industries with advanced technologies such as Analytics, Machine Learning (ML), Artificial Intelligence (AI), Data Mining, Business Intelligence, and Big Data. </br>
-***Highly interested in Machine Learning and DevOps.***
+# Amogh Ranganathaiah  
+### Data-Driven Problem Solver | Bridging Business and Technology
 
 
-- 🌱 I’m currently learning 🤔, well a lot of things;)
-- 👬 I’m looking to collaborate on a project or an internship on **Business Analyst / Data Analyst**.
-<!-- - 💬 Ask me about anything! </br></br> -->
+## 👋 Hi there!
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2004&count_private=true&layout=compact&bg_color=e8e8e8&text_color=373a40&title_color=373a40&icon_color=19d3da)](https://github.com/anuraghazra/github-readme-stats)
+I’m Amogh, a Master's student in Business Analytics at San Francisco State University. With a solid foundation in Data Science and Engineering, I have nearly two years of experience transforming raw data into impactful business insights. Passionate about **Data Analytics** and **Business Intelligence**, I aim to create solutions that not only address challenges but also drive innovation and growth.
 
-<img src="https://komarev.com/ghpvc/?username=amogh2004&label=Profile%20views&color=0e75b6" alt="amogh2004" />  </p> --->
+Studying in the heart of the Bay Area, I am immersed in a world of cutting-edge technology and innovation. My journey has been about leveraging data to solve complex problems and creating meaningful insights that influence strategic decisions. I’m also deeply interested in the transformative power of Generative AI and how it can redefine data strategies for businesses.
+
+---
+
+## 🛠️ Core Skills
+
+**Technical Skills:**  
+- **Languages**: Python (pandas, numpy, scikit-learn), SQL  
+- **Tools**: Power BI (Online & Desktop), Tableau, Git, MS Office, Alation, Apache Spark, PySpark  
+- **Machine Learning**: Predictive Modeling, Dimensionality Reduction, Model Evaluation, Supervised Learning (Classification, Regression, Decision Trees, Random Forest, Nearest Neighbours), Unsupervised Learning (Clustering, Deep Learning, Apriori, Gaussian Models, Principal Component Analysis), Neural Network, NLP
+- **Cloud Platforms**: Microsoft Azure, Google Cloud Platform (GCP)
+
+**Soft Skills:**  
+- Communication, Strategic Thinking, Leadership, Team Collaboration, Problem-Solving
+
+---
+
+## 🔍 Experience
+
+### Data Engineer / Software Engineer - LTIMindtree  
+*August 2021 – April 2023*  
+- Integrated IoT data from 10,000+ devices into Azure Data Lake, boosting data availability by 25%.  
+- Developed data pipelines, reducing processing time by 40%, managing over 2TB of daily data.  
+- Implemented data governance, enhancing security for 500+ users and decreasing approval times by 30%.  
+- Led strategic post-merger documentation and team collaboration, ensuring efficient project completion.
+
+### Student Manager of Assessment - SFSU Campus Recreation  
+*March 2024 – Present*  
+- Improved participant satisfaction by 30% through data-driven assessment initiatives.  
+- Facilitated data collection using Qualtrics and analyzed results for continuous improvement.  
+- Enhanced stakeholder engagement and operational efficiency within the Campus Recreation Assessment Program.
+
+---
+
+## 📊 Featured Projects
+
+### Dimensionality Reduction & Clustering on Housing Prices  
+*Tech Stack: Python (pandas, numpy, scikit-learn), K-Medoids, PCA*  
+Implemented dimensionality reduction and clustering analysis, using PCA and K-Medoids, to extract meaningful insights from complex datasets. Evaluated model performance using metrics like NMI. [View on GitHub](link)
+
+### Analyzing Obesity Levels from Health Data  
+*Tech Stack: Python, Machine Learning*  
+Developed models to classify obesity levels, utilizing techniques like KNN and Gradient Boosting. Enhanced predictive accuracy, providing insights into personalized health interventions. [View on GitHub](link)
+
+### Database Management for AEMA Imports LLC  
+*Tech Stack: SQL*  
+Designed a comprehensive DBMS for efficient inventory and sales management, simulating real-world challenges in global commerce. [View on GitHub](link)
+
+### California Housing Prices Analysis  
+*Tech Stack: Python (OLS Regression, Gradient Boosting)*  
+Analyzed housing prices using regression models, achieving an 80.9% accuracy improvement with ensemble techniques. Key insights focused on income and coastal proximity. [View on GitHub](link)
+
+---
+
+## 🎓 Education & Certifications
+
+- **MS in Business Analytics** (STEM) – San Francisco State University (2023-2025)  
+  *Relevant Coursework*: Machine Learning, Data Mining, Business Intelligence, AI
+- **BE in Computer Science and Engineering** – Visvesvaraya Technological University (2017-2021)  
+- **Certifications**: Microsoft Technology Associate, Google Certified Data Engineer
+
+---
+
+## 🌐 Contact & Connect
+
+- **LinkedIn**: [Amogh Ranganathaiah](link)  
+- **GitHub**: [amogh2004](link)  
+- **Email**: [amoghranganathaiah@gmail.com](mailto:amoghranganathaiah@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](link_to_stats_widget)  
+*Join me in creating data-driven innovations!*
