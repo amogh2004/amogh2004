@@ -38,8 +38,6 @@ Studying in the heart of the Bay Area, I am immersed in a world of cutting-edge 
 - Facilitated data collection using Qualtrics and analyzed results for continuous improvement.  
 - Enhanced stakeholder engagement and operational efficiency within the Campus Recreation Assessment Program.
 
----
-
 ## 📊 Featured Projects
 
 ### Dimensionality Reduction & Clustering on Housing Prices  
