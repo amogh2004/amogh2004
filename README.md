@@ -72,5 +72,3 @@ Analyzed housing prices using regression models, achieving an 80.9% accuracy imp
 - **LinkedIn**: [Amogh Ranganathaiah](https://www.linkedin.com/in/amoghranganathaiah/)  
 - **GitHub**: [amogh2004](https://github.com/amogh2004)  
 - **Email**: [amoghranganathaiah@gmail.com](mailto:amoghranganathaiah@gmail.com)
-
----
