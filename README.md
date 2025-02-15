@@ -14,7 +14,7 @@ Studying in the heart of the Bay Area, I am immersed in a world of cutting-edge 
 
 **Technical Skills:**  
 - **Languages**: Python (pandas, numpy, scikit-learn), SQL  
-- **Tools**: Power BI (Online & Desktop), Tableau, Git, MS Office, Alation, Apache Spark, PySpark  
+- **Tools**: Power BI (Online & Desktop), Git, MS Office, Alation, Apache Spark, PySpark  
 - **Machine Learning**: Predictive Modeling, Dimensionality Reduction, Model Evaluation, Supervised Learning (Classification, Regression, Decision Trees, Random Forest, Nearest Neighbours), Unsupervised Learning (Clustering, Deep Learning, Apriori, Gaussian Models, Principal Component Analysis), Neural Network, NLP
 - **Cloud Platforms**: Microsoft Azure, Google Cloud Platform (GCP)
 
