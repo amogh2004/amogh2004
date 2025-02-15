@@ -29,11 +29,3 @@ Studying in the heart of the Bay Area, I am immersed in a world of cutting-edge 
   *Relevant Coursework*: Machine Learning, Data Mining, Business Intelligence, AI
 - **BE in Computer Science and Engineering** – Visvesvaraya Technological University (2017-2021)  
 - **Certifications**: Microsoft Technology Associate, Google Certified Data Engineer
-
----
-
-## 🌐 Contact & Connect
-
-- **LinkedIn**: [Amogh Ranganathaiah](https://www.linkedin.com/in/amoghranganathaiah/)  
-- **GitHub**: [amogh2004](https://github.com/amogh2004)  
-- **Email**: [amoghranganathaiah@gmail.com](mailto:amoghranganathaiah@gmail.com)
