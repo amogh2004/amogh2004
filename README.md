@@ -26,6 +26,6 @@ Studying in the heart of the Bay Area, I am immersed in a world of cutting-edge 
 ## 🎓 Education & Certifications
 
 - **MS in Business Analytics** (STEM) – San Francisco State University (2023-2025)  
-  *Relevant Coursework*: Machine Learning, Data Mining, Business Intelligence, AI
+  *Relevant Coursework*: Statistics, Machine Learning, Data Mining, Business Intelligence, AI
 - **BE in Computer Science and Engineering** – Visvesvaraya Technological University (2017-2021)  
 - **Certifications**: Microsoft Technology Associate, Google Certified Data Engineer
