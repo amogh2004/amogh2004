@@ -4,9 +4,7 @@
 
 ## 👋 Hi there!
 
-I’m Amogh, a Master's student in Business Analytics at San Francisco State University. With a solid foundation in Data Science and Engineering, I have nearly two years of experience transforming raw data into impactful business insights. Passionate about **Data Analytics** and **Business Intelligence**, I aim to create solutions that not only address challenges but also drive innovation and growth.
-
-Studying in the heart of the Bay Area, I am immersed in a world of cutting-edge technology and innovation. My journey has been about leveraging data to solve complex problems and creating meaningful insights that influence strategic decisions. I’m also deeply interested in the transformative power of Generative AI and how it can redefine data strategies for businesses.
+As a seasoned Data Engineer with expertise in Data Science, Data Engineering, Cloud Technologies, and Generative AI, I leverage 3 years of hands-on experience to drive data-driven insights. I am passionate about integrating technical and business acumen to explore the Data+AI space, optimizing processes and solving complex problems. Currently, I lead data analytics initiatives in a part-time capacity.
 
 ## 🎓 Education & Certifications
 
