@@ -4,7 +4,7 @@
 
 ## 👋 Hi there!
 
-As a seasoned Data Engineer with expertise in Data Science, Data Engineering, Cloud Technologies, and Generative AI, I leverage 3 years of hands-on experience to drive data-driven insights. I am passionate about integrating technical and business acumen to explore the Data+AI space, optimizing processes and solving complex problems. Currently, I lead data analytics initiatives in a part-time capacity.
+As a seasoned Data Engineer with expertise in Data Science, Data Engineering, Cloud Technologies, and Generative AI, I leverage 3 years of hands-on experience to drive data-driven insights. I am passionate about integrating technical and business acumen to explore the **Data+AI** space, optimizing processes and solving complex problems. Currently, I lead data analytics initiatives in a part-time capacity.
 
 ## 🎓 Education & Certifications
 
