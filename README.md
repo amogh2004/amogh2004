@@ -12,6 +12,7 @@ As a seasoned Data Engineer with expertise in Data Science, Data Engineering, Cl
 - **Statistical Analysis** - Multivariate Analysis, Pattern Recognition, Advanced Statistical Methods (Hypothesis Test, ANOVA, Time Series)
 - **Machine Learning** - scikit-learn, Regression, Classification, Clustering (k-medoids, k-medoids), Neural Networks, NLP, Random Forest
 - **Cloud & Data Engineering** - ETL/ELT Pipelines, Azure Data Lake Storage ADLS Gen2, Azure Data Factory ADF, Azure Synapse Analytics, Azure Databricks, Role Based Data Access Control(RBAC, ACL), Data Governance, Data Cataloging, Alation, Apache Kafka
+- **Data Mining Techniques** - Association Rule Learning, Dimensionality Reduction, Principal Component Analysis
 - **Gen AI** - LLM Architecture, Retrieval Augmented Generation RAG, Context Augmented Generation CAG, GPT, BERT, LangChain
 - **Other Relevant** - Git, GitHub, Kubernetes, Docker, PyTorch, Tensorflow, Microsoft Word, MS Excel, Microsoft PowerPoint, Requirements Gathering, Strategic Thinking, Stakeholder Communication, Business Communication
 
