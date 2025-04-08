@@ -1,5 +1,5 @@
 # Amogh Ranganathaiah  
-### Data-Driven Problem Solver | Bridging Business and Technology
+### AI+Data Space Explorer
 
 
 ## 👋 Hi there!
