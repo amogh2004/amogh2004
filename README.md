@@ -1,5 +1,5 @@
 # Amogh Ranganathaiah  
-### AI+Data Space Explorer
+### Data Engineer, AI+Data Space Explorer, Ex-LTIMindtree
 
 
 ## 👋 Hi there!
