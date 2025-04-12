@@ -1,7 +1,8 @@
 # Amogh Ranganathaiah  
 ### Data Engineer, Data+AI Space Explorer, Ex-LTIMindtree
 
-
+🚀 Trailblazing Data Storyteller | Engineering Precision × Business Impact
+I design scalable data solutions, build AI-powered insights, and drive innovation at the edge — from Azure pipelines to decentralized GenAI. Passionate about bridging data, strategy, and technology to shape what’s next in the Data + AI world.
 ## 👋 Hi there!
 
 As a seasoned Data Engineer with expertise in Data Science, Data Engineering, Cloud Technologies, and Generative AI, I leverage 3 years of hands-on experience to drive data-driven insights. I am passionate about integrating technical and business acumen to explore the **Data+AI** space, optimizing processes and solving complex problems. Currently, I lead data analytics initiatives in a part-time capacity.
