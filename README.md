@@ -8,7 +8,7 @@ As a seasoned Data Engineer with expertise in Data Science, Data Engineering, Cl
 
 ## Skills
 
-- **Data Analysis & Visualization** - PowerBI, Python(numpy, pandas, matplotlib), R, SQL, MySQL, Oracle, Data Mining, Data Modelling
+- **Data Analysis & Visualization** - PowerBI, Python(numpy, pandas, matplotlib), R, SQL, MySQL, Data Mining, Data Modelling
 - **Statistical Analysis** - Multivariate Analysis, Pattern Recognition, Advanced Statistical Methods (Hypothesis Test, ANOVA, Time Series)
 - **Machine Learning** - scikit-learn, Regression, Classification, Clustering (k-medoids, k-medoids), Neural Networks, NLP, Random Forest
 - **Cloud & Data Engineering** - ETL/ELT Pipelines, Azure Data Lake Storage ADLS Gen2, Azure Data Factory ADF, Azure Synapse Analytics, Azure Databricks, Role Based Data Access Control(RBAC, ACL), Data Governance, Data Cataloging, Alation, Apache Kafka
