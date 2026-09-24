@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Amogh Ranganathaiah, Forward Deployed Engineer: multi-agent systems and applied GenAI">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+  <linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#30363d"/></pattern>
+</defs>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .e{fill:none;stroke:#58a6ff;stroke-width:1.6;stroke-dasharray:4 8;opacity:.8;animation:flow 1.6s linear infinite}
+  .e2{stroke:#a371f7}
+  @keyframes flow{to{stroke-dashoffset:-24}}
+  .n rect{fill:#1f2630;stroke:#30363d;stroke-width:1.2}
+  .n{animation:pulse 3s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.85}50%{opacity:1}}
+  .nl{font:500 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3;text-anchor:middle}
+  .cur{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.e,.n,.cur{animation:none}}
+</style>
+<rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+<rect x="700" width="500" height="300" fill="url(#grid)" opacity=".7"/>
+<text x="56" y="84" class="mono" font-size="15" fill="#8b949e">$ whoami</text>
+<text x="56" y="138" class="sans" font-size="46" font-weight="700" fill="url(#tx)">Amogh Ranganathaiah</text>
+<text x="56" y="178" class="sans" font-size="21" font-weight="600" fill="#e6edf3">Founding Forward Deployed Engineer @ MoolAI</text>
+<text x="56" y="210" class="sans" font-size="16" fill="#8b949e">Multi-Agent Systems · Applied GenAI · Platform Architecture</text>
+<text x="56" y="252" class="mono" font-size="14" fill="#3fb950">● shipping agents from pilot → production<tspan class="cur" fill="#e6edf3"> ▍</tspan></text>
+<path class="e" style="animation-delay:0.0s" d="M918,150 C960,150 920,62 960,62"/><path class="e e2" style="animation-delay:0.2s" d="M1060,62 C1090,62 1090,150 1120,150"/><path class="e" style="animation-delay:0.4s" d="M918,150 C960,150 950,150 990,150"/><path class="e e2" style="animation-delay:0.6000000000000001s" d="M1090,150 C1120,150 1090,150 1120,150"/><path class="e" style="animation-delay:0.8s" d="M918,150 C960,150 920,238 960,238"/><path class="e e2" style="animation-delay:1.0s" d="M1060,238 C1090,238 1090,150 1120,150"/>
+<g class="n"><rect x="802" y="130" width="116" height="40" rx="20" style="stroke:#58a6ff;stroke-width:1.8"/><text x="860" y="155" class="nl">supervisor</text></g>
+<g class="n" style="animation-delay:0.0s"><rect x="960" y="46" width="100" height="32" rx="16"/><text x="1010" y="67" class="nl">retrieve</text></g><g class="n" style="animation-delay:0.6s"><rect x="990" y="134" width="100" height="32" rx="16"/><text x="1040" y="155" class="nl">validate</text></g><g class="n" style="animation-delay:1.2s"><rect x="960" y="222" width="100" height="32" rx="16"/><text x="1010" y="243" class="nl">narrate</text></g>
+<g class="n" style="animation-delay:1.2s"><circle cx="1150" cy="150" r="30" fill="#1f2630" stroke="#a371f7" stroke-width="1.8"/><text x="1150" y="148" class="nl" style="font-size:11px">judge</text><text x="1150" y="162" class="nl" style="font-size:11px">council</text></g>
+<text x="802" y="198" class="mono" font-size="11" fill="#8b949e">plan · delegate</text>
+<text x="1150" y="200" class="mono" font-size="11" fill="#8b949e" text-anchor="middle">evaluate</text>
+</svg>
